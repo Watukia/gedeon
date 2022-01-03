@@ -1,0 +1,200 @@
+header{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: fixed;
+    top: 0px;
+    height: 100px;
+    width: 100%;
+    }
+    .menu-gauche img {
+        width: 90%;
+        height: 80px;
+    }
+header h1,header nav{
+    display: inline-block;
+    vertical-align: top;
+    display: flex;
+    justify-content: center;
+}
+header nav{
+    margin-top: 18px;
+
+}
+header h1{
+    width: 60%;
+    padding-left: 10px;
+    color: white;
+    display: flex;
+
+
+}
+header nav a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase; 
+    
+    
+}
+header a:hover{
+    color: rgb(22, 110, 59);
+}
+header nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 10px;
+}
+#img img{
+    width: 100%;
+    height: 500px;
+}
+section .main{
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+
+}
+section #biographie{
+    background-color: white;
+    width: 30%;
+    padding: 25px;
+    padding: 50px;
+    box-sizing: border-box;
+    overflow: scroll;
+    font-style: italic;
+    font-size: x-large;
+
+}
+section #biographie{
+    background-color: white;
+    width: 30%;
+    padding: 25px;
+    padding: 50px;
+    box-sizing: border-box;
+    overflow: scroll;
+    font-style: italic;
+    
+}
+section #biographie{
+    background-color: white;
+    width: 30%;
+    padding: 25px;
+    padding: 50px;
+    box-sizing: border-box;
+    overflow: scroll; 
+    font-style: italic;  
+}
+#bo img{
+    width:30%;
+    height:10 px;
+
+}
+#lolo img{
+    width: 30%;
+    height: 10px
+}
+.class{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    text-align: right;
+}
+#ra{
+    width: 100%;
+    height: 600px;
+    border: solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:black;
+}
+.formulaire{
+    width: 50%;
+    height: 450px;
+    border: solid blue;
+    margin-left: 500px;
+    color: black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+input,textarea{
+    margin: 5px;
+}
+marquee,h1{
+    color: blue;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.lili img{
+    width: 5%;
+    height: 50px;
+      
+}
+img,#lele {
+    width: 150%;
+    height: 500px;
+    padding-bottom: 25px;
+    
+}
+h6{
+    color: blue;
+    font-size: x-large;
+    font-style: italic;
+}
+.menu-droite {
+    display: flex;
+    align-items: center;
+
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+
+}
+.veve {
+    width: 7%;
+    height: 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+}
+#be a {
+    display: flex;
+    justify-self: right;
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+   
+
+
+
+  
